@@ -28,8 +28,8 @@ Passionate about building modern, responsive, and user-friendly web applications
 ---
 
 ## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL@domain.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/risal-wahyu-agustin-6547b5362/)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rzalcorp05@gmail.com)  
 
 ---
 ⭐️ From [rzalwhy12](https://github.com/rzalwhy12)
